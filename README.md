@@ -13,7 +13,7 @@ and create initial sketches that incorporate design psychology principles.
 Technologies: Mirro.io, Zoom.us
 
 - [Research Plan Link](https://docs.google.com/document/d/e/2PACX-1vQs0QI7itCh13_Wj-T_dqdc0WfBy56qK2JdvEaCWk0Ux0cu49HSfXGjfauj9C0ZzkiKfpOw-1p4WHZz/pub)
-- Research Report Link
+- [Research Report Link](https://docs.google.com/presentation/d/e/2PACX-1vRGrJO0gjic32pykbADt86yJ5ROVr-ozUte42rrCX_Ko6lb366th60Bw1wzMD4867J7TkEio2OUUGR0/pub?start=false&loop=false&delayms=3000)
 - Design Sketch Link
 
 ## Project 2 - Concept to Low-Fidelity Prototyping
