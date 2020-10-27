@@ -33,7 +33,7 @@ This project was about enhancing a low-fidelity prototype through the applicatio
 
 Technologies: Figma.com, Lookback.io
 
-- [High-Fidelity Mockups / Clickable Prototype](https://www.figma.com/file/RfXdvb5aSYPfnPdqNC3uhU/Untitled?node-id=0%3A1)
+- [High-Fidelity Mockups / Clickable Prototype link](https://www.figma.com/file/RfXdvb5aSYPfnPdqNC3uhU/Untitled?node-id=0%3A1)
 
 ## Project 4 - CAPSTONE - UX Portfolio Design
 
