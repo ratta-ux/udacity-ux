@@ -25,7 +25,7 @@ and create a second iteration of the prototype based on user feedback.
 
 Technologies: Figma.com, Mirro.io
 
-- [Prototyping Link](https://miro.com/app/board/o9J_ki2oxUg=/)
+- [Low-Fidelity Prototyping Link](https://miro.com/app/board/o9J_ki2oxUg=/)
 
 ## Project 3 - High-Fidelity Prototyping to Post-Launch Analysis
 
@@ -33,7 +33,7 @@ This project was about enhancing a low-fidelity prototype through the applicatio
 
 Technologies: Figma.com, Lookback.io
 
-- [High-Fidelity Mockups / Clickable Prototype link](https://www.figma.com/file/RfXdvb5aSYPfnPdqNC3uhU/Untitled?node-id=0%3A1)
+- [High-Fidelity Mockups / Clickable Prototype Link](https://www.figma.com/file/RfXdvb5aSYPfnPdqNC3uhU/Untitled?node-id=0%3A1)
 
 ## Project 4 - CAPSTONE - UX Portfolio Design
 
