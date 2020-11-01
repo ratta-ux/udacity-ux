@@ -41,4 +41,4 @@ This project was about applying portfolio design and personal branding best prac
 
 Technologies: HTML, CSS, Figma.com, Lookback.io
 
-- Project Link
+- [UX Portfolio Case Study link](https://www.dropbox.com/s/x42nbq9xrtywy9w/Building%20a%20Starter%20Portfolio.pdf)
