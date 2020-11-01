@@ -2,7 +2,7 @@
 
 This is the list of projects I did for my [UX Designer Nanodegree](https://www.udacity.com/course/ux-designer-nanodegree--nd578).
 
-Graduated on **On Process (will be graduate by the end of October)**
+Graduated on **October 31, 2020** [(Verified Certificate link)](https://graduation.udacity.com/confirm/KDMKA63E)
 
 ## Project 1 - UX Fundamentals & Design Research
 
